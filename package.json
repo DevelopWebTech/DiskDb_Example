@@ -1,0 +1,36 @@
+{
+  "name": "diskdb_example",
+  "version": "1.0.0",
+  "description": "Database project",
+  "main": "server.js",
+  "dependencies": {
+    "diskdb": "^0.1.17",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "joi": "^14.3.1",
+    "lowdb": "^1.0.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopWebTech/DiskDb_Example.git"
+  },
+  "keywords": [
+    "Lowdb",
+    "Project"
+  ],
+  "author": "Lil Nelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevelopWebTech/DiskDb_Example/issues"
+  },
+  "homepage": "https://github.com/DevelopWebTech/DiskDb_Example#readme"
+}
